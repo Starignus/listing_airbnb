@@ -17,7 +17,7 @@
     
 * **SHAP**:SHAP Values(SHapley Additive exPlanations) break down a prediction of 1st model to 
   show the impact of each feature in a particular prediction.
-  * ** **:[Link to Colab notebook](https://colab.research.google.com/drive/1_zEL9cPk9Y5zLMGWa5NBYwIeqVFuYxFD?usp=sharing)
+  * The notebooks are in this code but they can be found as well in [Colab notebook](https://colab.research.google.com/drive/1_zEL9cPk9Y5zLMGWa5NBYwIeqVFuYxFD?usp=sharing)
 
 * **tools**: This is a module that contains code for data exploration, GA feature selection, and model selection.
 
