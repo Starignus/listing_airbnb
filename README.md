@@ -4,6 +4,7 @@
 
 * The second model will be set to maximise the user repose on a listing, and need to predict an over all consumer review. The target will be defined in the process.
 
+For feature selection the Genetic Algorithm was used. 
 
 It will be discussed the model interpretability using [SHAP (SHapley Additive exPlanation)](https://christophm.github.io/interpretable-ml-book/shap.html) and how to leverage NLP for modelling and for analysing the neighbourhood description given the overall score review.
 
