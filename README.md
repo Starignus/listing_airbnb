@@ -1,12 +1,13 @@
 # Using ML and NLP to establish your first competitive listing for your Airbnb property
 
-* The first model consist in create a pricing tool for a first Airbnb property using features just related to the property, the location, and amenities. The predicted price will be sued as a feature in the second model.
+* The first model creates a pricing tool for a first Airbnb property using features just related to the property, the location, and amenities. The predicted price will be sued as a feature in the second model.
 
-* The second model will be set to maximise the user repose on a listing, and need to predict an over all consumer review. The target will be defined in the process.
+* The second model will be set to maximise the user repose on a listing and predict an overall consumer review. The target will be defined in the process.
 
-For feature selection the Genetic Algorithm was used. 
+For feature selection, the Genetic Algorithm is used.
 
-It will be discussed the model interpretability using [SHAP (SHapley Additive exPlanation)](https://christophm.github.io/interpretable-ml-book/shap.html) and how to leverage NLP for modelling and for analysing the neighbourhood description given the overall score review.
+The model interpretability will be discussed using SHAP [SHAP (SHapley Additive exPlanation)](https://christophm.github.io/interpretable-ml-book/shap.html) and how to leverage NLP for modelling and analysing the neighbourhood description given the overall score review.
+The folders contain:
 
 
 The folders contain:
