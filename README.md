@@ -1,6 +1,6 @@
 # Using ML and NLP to establish your first competitive listing for your Airbnb property
 
-* The first model creates a pricing tool for a first Airbnb property using features just related to the property, the location, and amenities. The predicted price will be sued as a feature in the second model.
+* The first model creates a pricing tool for a first Airbnb property using features just related to the property, the location, and amenities. The predicted price will be used as a feature in the second model.
 
 * The second model will be set to maximise the user repose on a listing and predict an overall consumer review. The target will be defined in the process.
 
